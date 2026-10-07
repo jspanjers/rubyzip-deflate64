@@ -1,0 +1,17 @@
+plugins:
+  - rubocop-minitest
+  - rubocop-performance
+  - rubocop-rake
+
+AllCops:
+  # Set this to the minimum supported ruby in the gemspec. Otherwise
+  # we get errors if our ruby version doesn't match.
+  TargetRubyVersion: 3.0
+
+  NewCops: enable
+
+Layout/LineLength:
+  Max: 120
+
+Metrics/MethodLength:
+  Max: 15
