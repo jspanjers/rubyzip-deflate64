@@ -1,15 +1,15 @@
 # rubyzip-deflate64
 
 [![Gem Version](https://badge.fury.io/rb/rubyzip-deflate64.svg)](http://badge.fury.io/rb/rubyzip-deflate64)
-[![Tests](https://github.com/rubyzip/rubyzip-deflate64/actions/workflows/tests.yml/badge.svg)](https://github.com/rubyzip/rubyzip-deflate64/actions/workflows/tests.yml)
-[![Linter](https://github.com/rubyzip/rubyzip-deflate64/actions/workflows/lint.yml/badge.svg)](https://github.com/rubyzip/rubyzip-deflate64/actions/workflows/lint.yml)
-[![Maintainability](https://qlty.sh/gh/rubyzip/projects/rubyzip-deflate64/maintainability.svg)](https://qlty.sh/gh/rubyzip/projects/rubyzip-deflate64)
-[![Coverage Status](https://coveralls.io/repos/github/rubyzip/rubyzip-deflate64/badge.svg?branch=main)](https://coveralls.io/github/rubyzip/rubyzip-deflate64?branch=main)
+[![Tests](https://github.com/jspanjers/rubyzip-deflate64/actions/workflows/tests.yml/badge.svg)](https://github.com/jspanjers/rubyzip-deflate64/actions/workflows/tests.yml)
+[![Linter](https://github.com/jspanjers/rubyzip-deflate64/actions/workflows/lint.yml/badge.svg)](https://github.com/jspanjers/rubyzip-deflate64/actions/workflows/lint.yml)
+[![Maintainability](https://qlty.sh/gh/jspanjers/projects/rubyzip-deflate64/maintainability.svg)](https://qlty.sh/gh/jspanjers/projects/rubyzip-deflate64)
+[![Coverage Status](https://coveralls.io/repos/github/jspanjers/rubyzip-deflate64/badge.svg?branch=main)](https://coveralls.io/github/jspanjers/rubyzip-deflate64?branch=main)
 
 The rubyzip-deflate64 gem provides an extension of the rubyzip gem for reading zip files compressed with deflate64 compression.
 
 ## Website and Project Home
-http://github.com/rubyzip/rubyzip-deflate64
+http://github.com/jspanjers/rubyzip-deflate64
 
 ## Requirements
 
@@ -76,7 +76,7 @@ this means you can use it under the terms of the Ruby License or the
 See https://www.ruby-lang.org/en/about/license.txt and LICENSE.md for details.
 
 ## Contributing
-Bug reports and pull requests are welcome on GitHub at https://github.com/rubyzip/rubyzip-deflate64.
+Bug reports and pull requests are welcome on GitHub at https://github.com/jspanjers/rubyzip-deflate64.
 
 ## Development
 You can run the tests with:
@@ -88,7 +88,7 @@ bundle exec rake
 
 ## Authors
 
-See https://github.com/rubyzip/rubyzip-deflate64/graphs/contributors for a comprehensive list.
+See https://github.com/jspanjers/rubyzip-deflate64/graphs/contributors for a comprehensive list.
 
 ### Current maintainers
 

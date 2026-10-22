@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.description =
     'The rubyzip-deflate64 gem provides an extension of the rubyzip gem ' \
     'for reading zip files compressed with deflate64 compression'
-  spec.homepage = 'http://github.com/rubyzip/rubyzip-deflate64'
+  spec.homepage = 'http://github.com/jspanjers/rubyzip-deflate64'
   spec.license = 'BSD 2-Clause'
   spec.require_paths = ['lib']
 
@@ -24,11 +24,11 @@ Gem::Specification.new do |spec|
   end
 
   spec.metadata = {
-    'bug_tracker_uri' => 'https://github.com/rubyzip/rubyzip-deflate64/issues',
-    'changelog_uri' => "https://github.com/rubyzip/rubyzip-deflate64/blob/v#{spec.version}/Changelog.md",
+    'bug_tracker_uri' => 'https://github.com/jspanjers/rubyzip-deflate64/issues',
+    'changelog_uri' => "https://github.com/jspanjers/rubyzip-deflate64/blob/v#{spec.version}/Changelog.md",
     'documentation_uri' => "https://www.rubydoc.info/gems/rubyzip-deflate64/#{spec.version}",
-    'source_code_uri' => "https://github.com/rubyzip/rubyzip-deflate64/tree/v#{spec.version}",
-    'wiki_uri' => 'https://github.com/rubyzip/rubyzip-deflate64/wiki',
+    'source_code_uri' => "https://github.com/jspanjers/rubyzip-deflate64/tree/v#{spec.version}",
+    'wiki_uri' => 'https://github.com/jspanjers/rubyzip-deflate64/wiki',
     'rubygems_mfa_required' => 'true'
   }
 
